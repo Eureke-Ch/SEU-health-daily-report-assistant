@@ -1,0 +1,1 @@
+taskkill /IM health-daily-report.exe /F
